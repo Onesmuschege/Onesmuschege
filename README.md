@@ -27,13 +27,37 @@
 
 ## 🛠️ TOOLS - Cybersecurity Arsenal  
 
-| **Coding Languages**         | **Frameworks & Protocols**   | **Security Tools**          | **Operating Systems**      |  
-|------------------------------|------------------------------|-----------------------------|----------------------------|  
-| Python                       | Flask                        | Metasploit                  | Kali Linux                 |  
-| Bash                         | Django                       | Burp Suite                  | Parrot OS                  |  
-| Ruby                         | React                        | Nmap                        | Windows 11                 |  
-| HTML                         | Vite                         | Wireshark                   |                            |  
-| CSS                          |                              | OWASP ZAP                   |                            |  
+### Coding Languages  
+- **Python**  
+- **Bash**  
+- **Ruby**  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+---  
+
+### Frameworks & Protocols  
+- **Flask**  
+- **Django**  
+- **React**  
+- **Vite**  
+
+---  
+
+### Security Tools  
+- **Metasploit**  
+- **Burp Suite**  
+- **Nmap**  
+- **Wireshark**  
+- **OWASP ZAP**  
+
+---  
+
+### Operating Systems  
+- **Kali Linux**  
+- **Parrot OS**  
+- **Windows 11**  
 
 ---  
 
@@ -70,4 +94,4 @@ Mapping my expedition through Network Security.
 
 ## ⚡ FUN FACT - Insider Info  
 
-When I’m offline, I unravel puzzles and dissect the latest tech anomalies.  
+When I’m offline, I unravel puzzles and dissect the latest tech anomalies. 
