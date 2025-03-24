@@ -6,8 +6,8 @@
 
 ## 🔍 About Me
 
-- **Current Learning Focus:** Penetration testing, ethical hacking, and cybersecurity fundamentals.
-- **Certifications:** Working towards CompTIA Security+, OSCP (Offensive Security Certified Professional).
+- **Current Learning Focus:**  Networking, Penetration testing, and Cybersecurity.
+- **Certifications:** Working towards CCNA, CompTIA Security+, OSCP (Offensive Security Certified Professional).
 - **Interests:**
   - Network Security
   - Web Application Security
@@ -16,14 +16,15 @@
 
 ## 🛠️ Tools & Technologies
 
-- **Languages:** Python, Bash, Ruby
-- **Tools:** Metasploit, Burp Suite, Nmap, Wireshark, OWASP ZAP
-- **Operating Systems:** Kali Linux, Parrot OS
+- **Languages:** Python, Bash, Ruby, Html, Css, Javascript.
+- **Frameworks:** Flask, Django, React & Vite.
+- **Tools:** Metasploit, Burp Suite, Nmap, Wireshark, OWASP ZAP.
+- **Operating Systems:** Kali Linux, Parrot OS, Windows 11.
 
 ## 📚Projects 
 - **[Beginner-Security-Scripts]():** Simple security scripts and tools I’ve created while learning.
 - **[CTF Write-ups]():** Write-ups of Capture The Flag (CTF) challenges I've completed.
-- **[Learning-Web-Security]():** A project documenting my journey into web application security.
+- **[Learning-Network-Security](SecurityCurriculum):** A project documenting my journey into Networking and Network Security.
 
 ## 📢 Contact & Collaboration
 - **LinkedIn:** [linkedin.com/in/chege-mbugua](https://www.linkedin.com/in/chege-mbugua)
